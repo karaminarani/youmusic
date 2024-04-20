@@ -72,7 +72,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TeamInflex")
+                await self.two.join_chat("TerasDodit")
                 await self.two.join_chat("InflexSupport")
             except:
                 pass
