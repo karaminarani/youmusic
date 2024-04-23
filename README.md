@@ -57,7 +57,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/karaminaran/youmusic && cd youmusic
+   git clone https://github.com/karaminarani/youmusic && cd youmusic
    ```
 6. **Install Requirements**
    ```bash
